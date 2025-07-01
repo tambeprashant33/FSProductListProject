@@ -12,3 +12,8 @@ This project includes:
 cd ProductListApp
 dotnet restore
 dotnet run
+
+### Frontend (Angular)
+cd ProductListInterface
+npm install
+ng serve
