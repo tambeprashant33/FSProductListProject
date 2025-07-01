@@ -1,0 +1,17 @@
+# Angular-related
+/ProductListInterface/node_modules/
+/ProductListInterface/dist/
+/ProductListInterface/.angular/
+
+# ASP.NET Core-related
+/ProductListApp/bin/
+/ProductListApp/obj/
+/ProductListApp/.vs/
+/ProductListApp/*.db
+
+# Logs and system files
+*.log
+*.user
+*.suo
+*.DS_Store
+Thumbs.db
